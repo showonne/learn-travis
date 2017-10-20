@@ -1,0 +1,22 @@
+{
+  "name": "learn-travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/showonne/learn-travis.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/showonne/learn-travis/issues"
+  },
+  "homepage": "https://github.com/showonne/learn-travis#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
